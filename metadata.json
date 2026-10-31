@@ -1,0 +1,6 @@
+{
+  "name": "Zebra Release Intelligence Platform",
+  "description": "Consolidated enterprise intelligence platform for Zebra software platforms, devices, monthly releases, Jira issues, CVE security remediations, and lifecycle tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
